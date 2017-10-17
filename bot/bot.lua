@@ -88,9 +88,11 @@ function create_config( )
     "msg-checks",	
     "plugins",
     "tools",
-    "rank"
+    "rank",
+    "cleanblock",
+    "addkick"
 	},
-    sudo_users = {229445008},
+    sudo_users = {244252169},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
